@@ -1,0 +1,28 @@
+# ============================================
+# Quantum-Classical Hybrid COVID Detection
+# Requirements File
+# ============================================
+
+# Deep Learning Framework
+torch
+torchvision
+
+# Quantum Machine Learning
+pennylane
+
+# Data Processing
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+
+# Machine Learning Utilities
+scikit-learn
+
+# Image Processing
+Pillow
+
+# Optional Utilities
+jupyter
+notebook
