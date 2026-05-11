@@ -1,0 +1,13 @@
+# ============================================
+# Dataset Information
+# Quantum-Classical COVID Detection Project
+# ============================================
+
+Dataset Name:
+COVID Chest X-Ray Dataset
+
+Dataset Type:
+Medical Imaging Dataset
+
+Dataset Size:
+Approximately 1.
