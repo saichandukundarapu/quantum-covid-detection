@@ -88,14 +88,6 @@ quantum-covid-detection/
 ├── README.md
 ├── requirements.txt
 ├── dataset_info.txt
-├── figures/
-│   ├── sample_xray.png
-│   ├── training_loss.png
-│   └── accuracy_chart.png
-│
-└── outputs/
-    ├── model_results.txt
-    └── noisy_accuracy.txt
 ```
 
 ---
@@ -298,7 +290,7 @@ This project can be useful for:
 
 # Author
 
-Siddartha Kundarapu
+Saichandu Kundarapu
 
 PhD Research Interest:
 Quantum Machine Learning and Artificial Intelligence in Healthcare
